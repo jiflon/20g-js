@@ -48,11 +48,3 @@
 
     // Recomendacion/ Buena practica siempre usar Let 
 
-
-    console.log('a');
-
-
-
-    
-
-    
