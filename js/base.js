@@ -11,7 +11,7 @@
 // ! Datos en Js
     // Identificador
     // Reglas o buenas practicas
-    // Reglas: No deben contener caracteres especial (, ! @) -> let @@@ = 'test'
+    // Reglas: No deben contener caracteres especial (, ! @) -> let @@@ = 'test' 
     // Regla: No incian con digitos
         // let 9varibale = 9; -> Error
     // Reglas: No acepta palabra reservadas 
@@ -28,9 +28,9 @@
     // Variables - palabras reservadas para declarar; var y let 
 
     // let edadKoder = 25;
-    // var alturaKoder = 165
+    // var alturaKoder = 165;
 
-    // var alturaKoder = 185
+    // var alturaKoder = 185;
     // edadKoder =  20
 
 
