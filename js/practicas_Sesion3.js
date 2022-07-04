@@ -37,13 +37,13 @@
 // !Si a  es igual b multiplicar ambos números
 // !Imprimir el resultado en consola
 
-const numA = parseInt(prompt("Primer numero: "));
-const numB = parseInt(prompt("Segundo numero: "));
+// const numA = parseInt(prompt("Primer numero: "));
+// const numB = parseInt(prompt("Segundo numero: "));
 
-if(numA > numB) {
-    console.log(`Dividimos ambos numeros: ${numA / numB}`)
-} else if(numA < numB) {
-    console.log(`Sumamos ambos numeros: ${numA + numB}`)
-} else {
-    console.log(`Por ser iguales los multiplicamos: ${numA * numB}`)
-}
+// if(numA > numB) {
+//     console.log(`Dividimos ambos numeros: ${numA / numB}`)
+// } else if(numA < numB) {
+//     console.log(`Sumamos ambos numeros: ${numA + numB}`)
+// } else {
+//     console.log(`Por ser iguales los multiplicamos: ${numA * numB}`)
+// }
