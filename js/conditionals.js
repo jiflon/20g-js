@@ -54,20 +54,42 @@
 
 //? Ternary operator 
 
-    // ? Sintaxis 
-    //     // <evaluacion> ? <resultado si es verdadero>  : <resulatdo si es falso></resulatdo>
-
+    // // ? Sintaxis 
+    
     // let notaExamen = parseInt(prompt('Ingresa tu nota: '));
-
+    
     // let resultado =  notaExamen >= 7 ? "Felicidades pasaste" : 'Reprobaste'
-
+    
     // console.log(resultado)
-
-    // //? Nesting ternary 
-    // let a = -1 
+    
+    // // //? Nesting ternary 
+    // // let a = -1 
     // let result = a >= 0 ? a == 0 ? 'Zero' : 'Positive' : 'Negativo'
-    // console.log(result)
+    // // console.log(result)
 
-// Switch 
 
-// let a = 2 
+    // <evaluacion> ?  <resultado si es verdadero>  : <resulatdo si es falso></resulatdo>
+//     let a = 1;
+//     let b = 2;
+
+//     let result = a === b ? 'son iguales' : (a > b ? 'a es mayor que b ' : 'b es mayor que a') 
+//     console.log(result)
+
+
+
+// //? Switch 
+
+let a = 1 
+
+switch(a)   {
+    case 1:
+        console.log('es uno');
+        break
+    case 2:
+        console.log('es dos');
+        break
+    default:
+        console.log('no es ni uno ni dos!')
+}
+
+
