@@ -38,7 +38,7 @@
 // !Imprimir el resultado en consola
 
 // const numA = parseInt(prompt("Primer numero: "));
-// const numB = parseInt(prompt("Segundo numero: "));
+// const numB = prompt("Segundo numero: ");
 
 // if(numA > numB) {
 //     console.log(`Dividimos ambos numeros: ${numA / numB}`)

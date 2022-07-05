@@ -77,19 +77,21 @@
 
 
 
-// //? Switch 
+// // //? Switch 
 
-let a = 1 
-
+let a = 2
+let dia = ''
 switch(a)   {
     case 1:
-        console.log('es uno');
-        break
     case 2:
-        console.log('es dos');
+        console.log('es uno o es dos ');
+        break
+    case 3:
+        console.log('es tress');
         break
     default:
         console.log('no es ni uno ni dos!')
 }
+
 
 
